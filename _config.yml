@@ -14,7 +14,7 @@ title                    : "Raphaël Tournier"
 title_separator          : "-"
 name                     : &name "Raphaël Tournier"
 description              : &description "PhD student in Life and Earth Sciences"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://raphaeltnr.github.io/raphael-tournier.github.io"
+url                      : https://raphaeltnr.github.io/raphael-tournier.github.io
 baseurl                  : ""
 repository               : "raphaeltnr/raphael-tournier.github.io"
 
