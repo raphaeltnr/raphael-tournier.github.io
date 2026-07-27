@@ -1,40 +1,43 @@
 ---
 permalink: /
-title: "Raphaël Tournier — PhD Candidate, Earth System Modelling"
+title: "Raphaël Tournier"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
+<h3 style="color: #666; font-weight: normal; margin-top: -0.5em;">PhD Candidate, Earth System Modelling</h3>
+
 I'm a second-year PhD student at Université Grenoble Alpes (UGA), working at the interface of Earth sciences and life sciences. I use numerical modeling to reconstruct how landscapes, climate, and life have co-evolved over millions of years.
 
+📧 raphael.tournier1@univ-grenoble-alpes.fr
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1em; margin: 2em 0;">
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 1.2em; text-align: center;">
-    <div style="font-size: 2em;">⏳</div>
-    <strong>Dynamic Topography</strong>
-    <div style="font-size: 0.85em; color: #666; margin-top: 0.3em;">with Laurent Husson</div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.7em; margin: 1.5em 0;">
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 0.7em; text-align: center;">
+    <div style="font-size: 1.4em;">⏳</div>
+    <strong style="font-size: 0.85em;">Dynamic Topography</strong>
+    <div style="font-size: 0.7em; color: #666; margin-top: 0.2em;">with Laurent Husson</div>
   </div>
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 1.2em; text-align: center;">
-    <div style="font-size: 2em;">🪨</div>
-    <strong>Tectonics</strong>
-    <div style="font-size: 0.85em; color: #666; margin-top: 0.3em;">with Nicolas Bellahsen & Raphaël Pik</div>
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 0.7em; text-align: center;">
+    <div style="font-size: 1.4em;">🪨</div>
+    <strong style="font-size: 0.85em;">Tectonics</strong>
+    <div style="font-size: 0.7em; color: #666; margin-top: 0.2em;">with Nicolas Bellahsen & Raphaël Pik</div>
   </div>
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 1.2em; text-align: center;">
-    <div style="font-size: 2em;">☁️</div>
-    <strong>Climate Modelling</strong>
-    <div style="font-size: 0.85em; color: #666; margin-top: 0.3em;">IPSL-CM5A2, with Pierre Sepulchre & Frédéric Fluteau</div>
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 0.7em; text-align: center;">
+    <div style="font-size: 1.4em;">☁️</div>
+    <strong style="font-size: 0.85em;">Climate Modelling</strong>
+    <div style="font-size: 0.7em; color: #666; margin-top: 0.2em;">IPSL-CM5A2, with Pierre Sepulchre & Frédéric Fluteau</div>
   </div>
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 1.2em; text-align: center;">
-    <div style="font-size: 2em;">🏞️</div>
-    <strong>Physiography</strong>
-    <div style="font-size: 0.85em; color: #666; margin-top: 0.3em;">gospl LEM, with Tristan Salles</div>
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 0.7em; text-align: center;">
+    <div style="font-size: 1.4em;">🏞️</div>
+    <strong style="font-size: 0.85em;">Physiography</strong>
+    <div style="font-size: 0.7em; color: #666; margin-top: 0.2em;">gospl LEM, with Tristan Salles</div>
   </div>
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 1.2em; text-align: center;">
-    <div style="font-size: 2em;">👣</div>
-    <strong>Life Dynamics</strong>
-    <div style="font-size: 0.85em; color: #666; margin-top: 0.3em;">PaleoSDM, Dispersal, Connectivity — with Sandrine Prat, Jean-Renaud Boisserie & Corentin Gibert</div>
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 0.7em; text-align: center;">
+    <div style="font-size: 1.4em;">👣</div>
+    <strong style="font-size: 0.85em;">Life Dynamics</strong>
+    <div style="font-size: 0.7em; color: #666; margin-top: 0.2em;">PaleoSDM, Dispersal, Connectivity — with Sandrine Prat, Jean-Renaud Boisserie & Corentin Gibert</div>
   </div>
 </div>
 
@@ -48,5 +51,5 @@ My PhD director is Laurent Husson, and my supervisors are Jean-Renaud Boisserie 
 
 # About me
 
- When I'm not working, you'll most likely find me in the mountains around Grenoble, skiing or trail running. Beyond that, I have a strong interest in theoretical eco-evolution (see my [Blog](/year-archive/)), and I enjoy teaching (see [Teaching & Outreach](/teaching/)).
+ When I'm not working, you'll most likely find me in the mountains around Grenoble, skiing or trail running. Beyond that, I have a strong interest in theoretical eco-evolution (see Blog), and I enjoy teaching (see Teaching & Outreach)).
  
