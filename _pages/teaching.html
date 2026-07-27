@@ -12,7 +12,7 @@ author_profile: true
     <h3>{{ post.title }}</h3>
     <p>
       <strong>Niveau :</strong> {{ post.level }}<br/>
-      <strong>Volume horaire :</strong> {{ post.hours }}<br/>
+      <strong>Période :</strong> {{ post.period }}<br/>
       <strong>Lieu :</strong> {{ post.venue }}, {{ post.location }}
     </p>
     <p>{{ post.content }}</p>
@@ -27,11 +27,7 @@ author_profile: true
     <h4>{{ post.title }}</h4>
     <p>{{ post.content }}</p>
   </div>
-{% endfor %}---
-layout: archive
-title: "Teaching"
-permalink: /teaching/
-author_profile: true
+{% endfor %}
 ---
 
 {% include base_path %}
