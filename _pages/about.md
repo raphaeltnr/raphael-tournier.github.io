@@ -21,7 +21,7 @@ I'm a second-year PhD student at Université Grenoble Alpes (UGA), working at th
   </div>
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 1.2em; text-align: center;">
     <div style="font-size: 2em;">⏳</div>
-    <strong>Paleogeography</strong>
+    <strong>Dynamic Topography</strong>
     <div style="font-size: 0.85em; color: #666; margin-top: 0.3em;">with Laurent Husson</div>
   </div>
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 1.2em; text-align: center;">
