@@ -10,4 +10,4 @@ location: "Grenoble, France"
 
 Training session for secondary school teachers. Links between erosional processes and biodiversity across different scales. Concepts of stress and disturbance. Landscape evolution models. Erosion and planetary regulation.
 
-[Download the presentation (PDF, in French)](/files/erosion-biodiversite-formation.pdf)
+
