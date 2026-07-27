@@ -1,7 +1,7 @@
 ---
 title: "Hominin evolution in the changing physical environments of the East African Rift"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/hominin-evolution-changing-environments-rift
 excerpt: "Interdisciplinary study combining numerical reconstructions of paleoenvironments with hominin macroecological data across the Plio-Pleistocene transition in East Africa."
 date: 2025-01-16
