@@ -4,7 +4,7 @@ excerpt: "Overarching PhD project: numerical reconstruction of hominin dispersal
 collection: portfolio
 ---
 
-[À COMPLÉTER : présentation générale du thème de thèse — enjeux, question scientifique, approche générale]
+The goal is to explore various questions related to the hominin clade (e.g., its geographic range, evolutionary timing, and dispersal) using a deductive approach based on numerical reconstructions. This type of tool helps overcome the limitations posed by incomplete field data by continuously reconstructing landscapes across time and space.
 
 This project relies on several interconnected tools and models, detailed below:
 
