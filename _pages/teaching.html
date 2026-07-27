@@ -1,4 +1,33 @@
 ---
+title: "Teaching & Outreach"
+permalink: /teaching/
+author_profile: true
+---
+
+# Enseignement académique
+
+{% assign academic = site.teaching | where: "type", "academic" %}
+{% for post in academic %}
+  <div style="margin-bottom: 2em;">
+    <h3>{{ post.title }}</h3>
+    <p>
+      <strong>Niveau :</strong> {{ post.level }}<br/>
+      <strong>Volume horaire :</strong> {{ post.hours }}<br/>
+      <strong>Lieu :</strong> {{ post.venue }}, {{ post.location }}
+    </p>
+    <p>{{ post.content }}</p>
+  </div>
+{% endfor %}
+
+# Outreach
+
+{% assign outreach = site.teaching | where: "type", "outreach" %}
+{% for post in outreach %}
+  <div style="margin-bottom: 1.5em;">
+    <h4>{{ post.title }}</h4>
+    <p>{{ post.content }}</p>
+  </div>
+{% endfor %}---
 layout: archive
 title: "Teaching"
 permalink: /teaching/
