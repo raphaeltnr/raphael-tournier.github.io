@@ -12,4 +12,5 @@ citation: "Tournier, R., Boisserie, J.-R., Prat, S., Barboni, D., Bellahsen, N.,
 
 This interdisciplinary study addresses the Pliocene–Pleistocene transition in East Africa, a period marking major hominin evolutionary events. By combining numerical modelling of paleoenvironmental conditions with macroecological data on hominin dispersal and diversification, the work investigates whether changing physical environments drove these evolutionary shifts, providing continuous spatio-temporal quantification of both environmental boundary conditions and hominin responses.
 
-[Download poster (PDF)](/files/poster-bmsap-2025.pdf)
+[Download poster (PDF)]({{ site.baseurl }}/files/poster-bmsap-2025.pdf)
+
