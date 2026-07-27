@@ -11,4 +11,5 @@ citation: "Tournier, R. et al. Dispersion of hominins in the changinglandscapes 
 
 Description du poster ici.
 
-[Download poster (PDF)](/files/poster-eshe-2025.pdf)
+[Download poster (PDF)]({{ site.baseurl }}/files/files/poster-eshe-2025.pdf)
+
