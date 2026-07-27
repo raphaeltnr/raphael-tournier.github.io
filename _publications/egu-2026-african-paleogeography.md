@@ -10,4 +10,6 @@ citation: "Tournier, R., Husson, L., Prat, S., Boisserie, J.-R., Barboni, D., Be
 ---
 
 This study reconstructs the paleogeographic evolution of continental Africa over the past 30 million years using a multi-layered modelling approach, integrating dynamic topography, crustal tectonics, plate motions, and volcanic eruptive dynamics into a continuous elevation model. This model then serves as a boundary condition for climate and physiographic simulations, and the reconstructions are evaluated against field-based geological, paleoenvironmental, and paleontological evidence to calibrate future eco-evolutionary studies of African fauna, including early hominins.
-[Download slides (PDF)](/files/slides-egu-2026.pdf)
+
+[Download poster (PDF)]({{ site.baseurl }}/files/slides-egu-2026.pdf)
+
