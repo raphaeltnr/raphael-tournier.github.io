@@ -11,4 +11,5 @@ citation: "Tournier, R., Prat, S., Boisserie, J.-R., Barboni, D., Bellahsen, N.,
 
 This work presents a continuous reconstruction of African topography over time by combining dynamic topography (mantle-driven vertical deflections) with isostatic, tectonic, and volcanic components. The resulting elevation model provides the basis for subsequent climatic and physiographic reconstructions, and is used to constrain hominin dispersal and the connectivity of landscapes across the Great Rift System and the wider African continent.
 
-[Download slides (PDF)](/files/slides-rst-2025.pdf)
+[Download poster (PDF)]({{ site.baseurl }}/files/slides-rst-2025.pdf)
+
