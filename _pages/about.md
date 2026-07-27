@@ -11,7 +11,7 @@ redirect_from:
 
 I'm a second-year PhD student at Université Grenoble Alpes (UGA), working at the interface of Earth sciences and life sciences. I use numerical modeling to reconstruct how landscapes, climate, and life have co-evolved over millions of years.
 
-📧 raphael.tournier1@univ-grenoble-alpes.fr
+raphael.tournier1@univ-grenoble-alpes.fr
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 0.7em; margin: 1.5em 0;">
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 0.7em; text-align: center;">
