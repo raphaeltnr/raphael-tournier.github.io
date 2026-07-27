@@ -4,16 +4,16 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Enseignement académique
+# Academic teaching
 
 {% assign academic = site.teaching | where: "type", "academic" %}
 {% for post in academic %}
   <div style="margin-bottom: 2em;">
     <h3>{{ post.title }}</h3>
     <p>
-      <strong>Niveau :</strong> {{ post.level }}<br/>
-      <strong>Période :</strong> {{ post.period }}<br/>
-      <strong>Lieu :</strong> {{ post.venue }}, {{ post.location }}
+      <strong>Level:</strong> {{ post.level }}<br/>
+      <strong>Period:</strong> {{ post.period }}<br/>
+      <strong>Location:</strong> {{ post.venue }}, {{ post.location }}
     </p>
     <p>{{ post.content }}</p>
   </div>
