@@ -8,8 +8,8 @@ The goal is to explore various questions related to the hominin clade (e.g., its
 
 This project relies on several interconnected tools and models, detailed below:
 
-- **AfriTopo** — continental-scale reconstruction of African elevation since 30 Ma
-- **Climate Simulation (IPSL-CM5A2)** — paleoclimate simulations
-- **Landscape Evolution Model (gospl)** — long-term landscape evolution modelling
-- **FlowScape** — hydro-physiographic connectivity over time
+- **AfriTopo** — Continental-scale reconstruction of African elevation since 30 Ma
+- **Climate Simulation (IPSL-CM5A2)** — Paleoclimate simulations
+- **Landscape Evolution Model (gospl)** — Long-term landscape evolution modelling
+- **FlowScape** — Hydro-physiographic connectivity over time
 - **MINOTAUR** — Mesh-Informed Neural Operator for Tectonic and Atmospheric Uncertainty Reconstruction
