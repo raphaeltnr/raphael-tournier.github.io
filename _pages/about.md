@@ -12,14 +12,6 @@ I'm a second-year PhD student at Université Grenoble Alpes (UGA), working at th
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1em; margin: 2em 0;">
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 1.2em; text-align: center;">
-    <div style="font-size: 2em;">👣</div>
-    <strong>Hominin Dispersal</strong>
-  </div>
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 1.2em; text-align: center;">
-    <div style="font-size: 2em;">🌋</div>
-    <strong>East African Rift</strong>
-  </div>
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 1.2em; text-align: center;">
     <div style="font-size: 2em;">⏳</div>
     <strong>Dynamic Topography</strong>
     <div style="font-size: 0.85em; color: #666; margin-top: 0.3em;">with Laurent Husson</div>
@@ -40,9 +32,9 @@ I'm a second-year PhD student at Université Grenoble Alpes (UGA), working at th
     <div style="font-size: 0.85em; color: #666; margin-top: 0.3em;">gospl LEM, with Tristan Salles</div>
   </div>
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 1.2em; text-align: center;">
-    <div style="font-size: 2em;">🦴</div>
+    <div style="font-size: 2em;">👣</div>
     <strong>Life Dynamics</strong>
-    <div style="font-size: 0.85em; color: #666; margin-top: 0.3em;">PaleoSDM, with Sandrine Prat, Jean-Renaud Boisserie & Corentin Gibert</div>
+    <div style="font-size: 0.85em; color: #666; margin-top: 0.3em;">PaleoSDM, Dispersal, Connectivity — with Sandrine Prat, Jean-Renaud Boisserie & Corentin Gibert</div>
   </div>
 </div>
 
