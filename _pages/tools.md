@@ -59,7 +59,7 @@ A collection of tools, links, and resources I use or find useful or interesting!
 
     {name: "ESHE 2025", city: "Paris, France", lat: 48.8566, lng: 2.3522, type: "conference"},
 
-    {name: "Seminar — ISTerre/Palevoprim", city: "Poitiers, France", lat: 46.5802, lng: 0.3404, type: "conference"},
+    {name: "Seminar — Palevoprim", city: "Poitiers, France", lat: 46.5802, lng: 0.3404, type: "conference"},
 
     {name: "PhD presentation — Centre Géologique de l'Oisans", city: "Bourg-d'Oisans, France", lat: 45.0587, lng: 6.0303, type: "outreach"},
 
